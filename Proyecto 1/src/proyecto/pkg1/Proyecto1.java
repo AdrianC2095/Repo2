@@ -16,6 +16,7 @@ public class Proyecto1 {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Ejemplo básico de Java Versionamiento a través de Git Menejado desde Git Hub");
+        System.out.println("Creado por AdrianC2095");
     }
     
 }
